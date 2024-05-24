@@ -3,8 +3,8 @@
 # Currículo
 Meu currículo
 
-- 🔭 Atualmente estou cursando o terceiro ano do ensino medio ...
-- 🌱 Atualmente estou aprendendo JAVASCRIPT 
+- 🔭 ciencias da computação - UFFS
+- 🌱Estudando JAVASCRIPT e PYTHON
 - 👯 Estou procurando colaborar com a comunidade de tecnologia da informação.
 - 💬 Buscando sempre mais conhecimento.
 
